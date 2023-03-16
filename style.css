@@ -3,3 +3,42 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+ text-align: center;
+}
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+.center {
+padding-left: 10px;
+padding-right: 10px;
+margin-left: 50%;
+margin-right: 50%;
+width: 50%;
+text-align: center;
+}
+.center {
+  text-align: center;
+  font-size: small;
+}
+
+#featured-property  {
+  width: 800px;
+  text-align: center
+}
+#details div {
+  float: left;
+  background-color: red;
+  width: 25%;
+  text-align: center;
+
+}
+div {
+  display: flex;
+  justify-content: center;
+}
+.fig caption{
+  text-align: center;
+}
